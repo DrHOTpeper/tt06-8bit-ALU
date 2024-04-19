@@ -14,7 +14,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How to test
 <img width="855" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/4b1be235-ff8c-49b3-baf9-1839c7d9e3d0">
-![image](https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/46da4583-3516-45a4-b761-a87474770169)
+<img width="855" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/46da4583-3516-45a4-b761-a87474770169">
+
 
 
 
